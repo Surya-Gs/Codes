@@ -1,0 +1,6 @@
+cd -to change directory
+git init -to initialize repository
+touch <filename> -to create file in linux
+cat <filename> -to display the contents of the file
+
+git stash pop -to revert the changes from staging area
