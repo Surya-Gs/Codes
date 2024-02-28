@@ -9,3 +9,5 @@ git remote add origin <git url>- to add url of the repository
 
 git push origin <branch> - to push the changes to remote repository
 
+git merge <branchname>- to merge the feature branch with main branch
+
