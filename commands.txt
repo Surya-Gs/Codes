@@ -4,3 +4,8 @@ touch <filename> -to create file in linux
 cat <filename> -to display the contents of the file
 
 git stash pop -to revert the changes from staging area
+
+git remote add origin <git url>- to add url of the repository 
+
+git push origin <branch> - to push the changes to remote repository
+
