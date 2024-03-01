@@ -11,3 +11,6 @@ git push origin <branch> - to push the changes to remote repository
 
 git merge <branchname>- to merge the feature branch with main branch
 
+git stash -to stash the changes completley
+
+git push original <branch name> -f -to force push the changes 
