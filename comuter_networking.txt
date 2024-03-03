@@ -1,0 +1,12 @@
+Protocals -the rules setup by people for sending or receiving data, rules/policies are set by internet society
+url: https://www.internetsociety.org/
+
+
+
+
+TCP(Transmission control protocal): to ensure the data is reahced destination without corruption
+
+UDP(User datagram protocal): to send the data 
+
+Http(Hyper text transfer protocal)
+
